@@ -19,10 +19,10 @@ py main.py
 ```
 
 ## TODO
-[ ] - Memory issues are large matrix sizes 
-[ ] - Convolutional NN 
-[ ] - LSTM 
-[ ] - Transformers
+- [ ] Memory issues are large matrix sizes 
+- [ ] Convolutional NN 
+- [ ] LSTM 
+- [ ] Transformers
 
 ## License
 All code is under an MIT license.
